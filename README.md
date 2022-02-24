@@ -14,3 +14,5 @@ The results indicated that the Logistic Regression and the Random Forest would b
 Here you can find two nootebooks:
  1. The first one contains the cleanning and futured engineering;
  2. The second one contains the models;
+
+All the programming part was made on Python, enjoy!
