@@ -12,5 +12,5 @@ By the end, my team and I started to question if a classification model would be
 The results indicated that the Logistic Regression and the Random Forest would be a better choice.  However, if we compared the accuracy of the classification and the regression models the results were quite the same. Because of that my team and I decided to keep simple and present the first model to AmesHouse Real State.
 
 Here you can find two nootebooks:
- 1. The first one contains the cleanning and futured engering;
+ 1. The first one contains the cleanning and futured engineering;
  2. The second one contains the models;
